@@ -23,3 +23,9 @@ For numbers which are multiples of both three and five print “ThreeFive”.
     from scurri_numbers import Numbers
     numbers = Numbers()
     numbers.print_numbers()
+
+## Test
+    cd scurri_numbers/
+    python3 scurri_numbers_test.py
+        or
+    python3 -m unittest scurri_numbers_test.py
